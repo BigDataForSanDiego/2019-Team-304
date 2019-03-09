@@ -1,12 +1,12 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `304`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Crusader Coders`    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### `Create a website to keep track of the supply and demand of food at public schools`
+##### `Using the nutritional info of the meals and food to `  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `YOUR DATASETS HERE`
@@ -17,13 +17,13 @@
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Nicholas Dela Rosa           |         [_]          |             [ ]             |         [ ]          |                   [X]                     |
+| 02 |   James Paredes                  |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
+| 03 |Victor Duenas Gonzales                     |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
+| 04 |Karlos Bautista                     |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
+| 05 | Timothy Jordan                    |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
+|06 | Miguel Serrato                    |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
+| 07 | Adrian Carretera                    |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
@@ -31,14 +31,14 @@
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
 - [ ] How can San Diegans have access to better air quality indoors and outdoors?
 - [ ] How can we clean San Diego beaches effectively?
-- [ ] Your question:
+- [x] Your question: how can we prevent public schools from having food waste at the end of the day
 
 **Smart Education**
 - [ ] How can schools better utilize their physical resources?
