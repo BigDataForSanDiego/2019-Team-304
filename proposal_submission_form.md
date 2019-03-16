@@ -22,7 +22,7 @@
 | 04 |Karlos Bautista                     |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
 | 05 | Timothy Jordan                    |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
 |06 | Miguel Serrato                    |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
-| 07 | Adrian Carretera                    |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
+| 07 | Adrian Carretero                    |         [ ]          |             [ ]             |         [ ]          |                   [x]                     |
  
 #### A question your team is answering (check a box OR provide a question your team created)
 
